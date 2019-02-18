@@ -3,6 +3,9 @@
 #### What is it?
 A desktop and Android compatible Java 8 based connector for Hetzner Cloud API.
 
+#### What is its benefit?
+It is a lightweight library which you can use your Android projects. It has a fully object-oriented architecture, so getting errors for your API calls due to invalid parameters are minimized.
+
 #### ExampleUsage.java (a basic example of how to use [vaha-hetznercloud-connector](https://github.com/vahithanoglu/vaha-hetznercloud-connector))
 ```java
 package com.vahabilisim.hetznercloud.connector;
